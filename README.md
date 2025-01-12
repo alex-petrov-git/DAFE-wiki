@@ -1,9 +1,6 @@
-Это вики-страницы курсов, которые читаются на ФАЛТ МФТИ. 
+These are my wiki pages of the things I've learned.
 
-## Как использовать
-
-1. Установка Git и Obsidian
-
-## Идея и преимущества DAFE-wiki
-
-## Помочь проекту
+## How to use
+...
+## Idea of wiki
+...
